@@ -1,1 +1,1 @@
-echo "web: vender/bin/heroku-php-apache2 public/" > Procfile
+echo "web: vender/bin/heroku-php-apache2 public/" > 
