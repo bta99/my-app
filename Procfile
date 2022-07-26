@@ -1,1 +1,1 @@
-echo "web: vender/bin/heroku-php-apache2 public/" > 
+web: vender/bin/heroku-php-apache2 public/
